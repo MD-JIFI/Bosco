@@ -1,5 +1,7 @@
 exports.gameMenu = (prefix) => {
     return `
+ ⛝  𝐓𝐎𝐗𝐈𝐂 ₪ 𝐀𝐋𝐄𝐗𝐀  ⛝
+
 ╔════ɢᴀᴍᴇ-ᴍᴇɴᴜ══════❥︎
 ╠➤ ${prefix}slot
 ╠➤ ${prefix}limitgame
